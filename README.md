@@ -37,7 +37,7 @@ Tailwind CSS
 
 Clone the repository:
 
-git clone https://github.com/your-username/google-classroom-clone.git
+git clone https://github.com/your-umeshmaanju01/google-classroom-clone.git
 
 
 Navigate to project folder:
