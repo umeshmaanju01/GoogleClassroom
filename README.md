@@ -32,10 +32,4 @@ Tailwind CSS
 └── README.md      # Documentation
 
 
- 
-
-🎯 Purpose
-
-This project is built for learning and practicing front-end development using Tailwind CSS by cloning the UI of Google Classro
-
 Made by - UMESH MAANJU
