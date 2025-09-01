@@ -20,15 +20,18 @@ HTML5
 
 Tailwind CSS
 
+📸 Preview
+
+![App Screenshot](https://github.com/umeshmaanju01/GoogleClassroom/blob/b2d5b6cab5d38cf9c72a7087451e992fe9b00c3b/classroom.png.png)
+
+
 📂 Project Structure
 .
 ├── index.html     # Main HTML file
 ├── /assets        # (Optional) Images, icons, etc.
 └── README.md      # Documentation
 
-📸 Preview
 
-![App Screenshot]()
 
 ⚡ Getting Started
 
