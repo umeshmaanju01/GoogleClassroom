@@ -32,20 +32,7 @@ Tailwind CSS
 └── README.md      # Documentation
 
 
-
-⚡ Getting Started
-
-Clone the repository:
-
-git clone https://github.com/your-umeshmaanju01/google-classroom-clone.git
-
-
-Navigate to project folder:
-
-cd google-classroom-clone
-
-
-Open index.html in your browser.
+ 
 
 🎯 Purpose
 
