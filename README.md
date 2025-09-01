@@ -52,14 +52,3 @@ Open index.html in your browser.
 This project is built for learning and practicing front-end development using Tailwind CSS by cloning the UI of Google Classro
 
 Made by - UMESH MAANJU
-
-
-
-
-
-
-
-
-
-
-✨ Last made by Umesh
