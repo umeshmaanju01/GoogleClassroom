@@ -49,10 +49,17 @@ Open index.html in your browser.
 
 🎯 Purpose
 
-This project is built for learning and practicing front-end development using Tailwind CSS by cloning the UI of Google Classroom.
+This project is built for learning and practicing front-end development using Tailwind CSS by cloning the UI of Google Classro
 
 Made by - UMESH MAANJU
 
-This project is for educational purposes only and is not affiliated with or endorsed by Google.
+
+
+
+
+
+
+
+
 
 ✨ Last made by Umesh
